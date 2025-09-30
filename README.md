@@ -28,6 +28,7 @@ Private engagements:
 
 | Date    	| Protocol name 	| Provider                         	| Type |
 |---------	|---------------	|------------------------------	| ------- |
+| 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock Collaborative 	|  Lending     |
 | 09/2025 	| Napier V2      	| Sherlock Collaborative 	|  Yield trading, Uniswap V4 hooks     |
 | 04/2025 	| Beraborrow - vePOLLEN      	| Solo review 	|  veTokenomics     |
 | 02/2025 	| Metalend      	| Sherlock Collaborative 	|  Lending, Compound V2 fork     |

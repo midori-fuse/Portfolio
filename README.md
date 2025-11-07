@@ -1,12 +1,12 @@
 # Portfolio
 
-LSW with team [PUSH0](https://audits.sherlock.xyz/watson/PUSH0), active in Sherlock/Cantina. Won multiple competitive programming awards on the national and international level in my past life.
-- Served as the Judge overseer in Cantina in 06/2025-09/2025.
+LSW with team [PUSH0](https://audits.sherlock.xyz/watson/PUSH0), primarily active at security reviews with Sherlock. Won multiple competitive programming awards on the national and international level in my past life.
 
 My contest highlights:
 
 | Date    	| Platform  	| Contest                                                                                                                       	| Team       	| Rank                           	| Category                                              	|
 |---------	|-----------	|-------------------------------------------------------------------------------------------------------------------------------	|------------	|--------------------------------	|-------------------------------------------------------	|
+| 10/2025 	| Sherlock   	| [3Jane](https://audits.sherlock.xyz/contests/1184)                                             	                                | PUSH0 	    | #2 🥈                           	| Morpho Blue fork, Credit lines, Pendle integrations 	|
 | 06/2025 	| Cantina   	| [Aquarius](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff)                                             	| WenResults 	| #7 (as dedicated researcher)                           	| Rust/Stellar, Uniswap V2 AMM, Curve AMM, veTokenomics 	|
 | 04/2025 	| Cantina   	| [LayerX/Taikai](https://cantina.xyz/competitions/74fb60b8-879f-43b1-9f48-c788df0590da)                                        	| Solo       	| #2 🥈 (as dedicated researcher) 	| Launchpad, Uniswap V4 integrations                    	|
 | 02/2025 	| Cantina   	| [Napier V2](https://cantina.xyz/competitions/58cd719b-9004-4eca-a113-41d1691c0711)                                            	| Solo       	| #1 🥇                           	| Yield tokenization, yield trading                                         	|
@@ -28,14 +28,15 @@ Private engagements:
 
 | Date    	| Protocol name 	| Provider                         	| Type |
 |---------	|---------------	|------------------------------	| ------- |
-| 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock Collaborative 	|  Lending     |
-| 09/2025 	| Napier V2      	| Sherlock Collaborative 	|  Yield trading, Uniswap V4 hooks     |
+| 11/2025 	| Pred   	| Sherlock Collaborative Audit 	|  Prediction market, Conditional Token Framework     |
+| 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock Collaborative Audit	|  Lending     |
+| 09/2025 	| Napier V2      	| Sherlock Collaborative Audit	|  Yield trading, Uniswap V4 hooks     |
 | 04/2025 	| Beraborrow - vePOLLEN      	| Solo review 	|  veTokenomics     |
-| 02/2025 	| Metalend      	| Sherlock Collaborative 	|  Lending, Compound V2 fork     |
+| 02/2025 	| Metalend      	| Sherlock Collaborative Audit	|  Lending, Compound V2 fork     |
 
 Also I won Secureum RACE-38 :P 
 
-I also served as a primary judge for various contests:
+I also served as the Judge overseer in Cantina in 06/2025 - 09/2025, and bounty triager in Cantina in 06/2025 - 11/2025. List of contests I served as a primary judge:
 
 | Date    | Platform | Contest                                                                                | Category                |
 |---------|----------|----------------------------------------------------------------------------------------|-------------------------|

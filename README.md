@@ -28,11 +28,11 @@ Private engagements:
 
 | Date    	| Protocol name 	| Provider                         	| Type |
 |---------	|---------------	|------------------------------	| ------- |
-| 11/2025 	| Pred   	| Sherlock Collaborative Audit 	|  Prediction market, Conditional Token Framework     |
-| 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock Collaborative Audit	|  Lending     |
-| 09/2025 	| Napier V2      	| Sherlock Collaborative Audit	|  Yield trading, Uniswap V4 hooks     |
+| 11/2025 	| Pred   	| Sherlock Audit 	|  Prediction market, Conditional Token Framework     |
+| 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock Audit	|  Lending     |
+| 09/2025 	| Napier V2      	| Sherlock Audit	|  Yield trading, Uniswap V4 hooks     |
 | 04/2025 	| Beraborrow - vePOLLEN      	| Solo review 	|  veTokenomics     |
-| 02/2025 	| Metalend      	| Sherlock Collaborative Audit	|  Lending, Compound V2 fork     |
+| 02/2025 	| Metalend      	| Sherlock Audit	|  Lending, Compound V2 fork     |
 
 Also I won Secureum RACE-38 :P 
 

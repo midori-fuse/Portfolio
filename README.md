@@ -36,7 +36,11 @@ Private engagements:
 
 Also I won Secureum RACE-38 :P 
 
-I also served as the Judge overseer in Cantina in 06/2025 - 09/2025, and bounty triager in Cantina in 06/2025 - 11/2025. List of contests I served as a primary judge:
+I also took up roles in the field of triaging. Roles I served at:
+- Judge overseer in Cantina in 06/2025 - 09/2025
+- Bounty triager in Cantina in 06/2025 - 11/2025. 
+
+List of contests I served as a primary judge:
 
 | Date    | Platform | Contest                                                                                | Category                |
 |---------|----------|----------------------------------------------------------------------------------------|-------------------------|

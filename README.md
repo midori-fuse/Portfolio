@@ -1,11 +1,12 @@
 # Portfolio
 
-LSW with team [PUSH0](https://audits.sherlock.xyz/watson/PUSH0), primarily active at security reviews with Sherlock. Won multiple competitive programming awards on the national and international level in my past life.
+LSW with team [PUSH0](https://audits.sherlock.xyz/watson/PUSH0), primarily active at security reviews with [Sherlock](https://sherlock.xyz/). Won multiple competitive programming awards on the national and international level in my past life.
 
 My contest highlights:
 
 | Date    	| Platform  	| Contest                                                                                                                       	| Team       	| Rank                           	| Category                                              	|
 |---------	|-----------	|-------------------------------------------------------------------------------------------------------------------------------	|------------	|--------------------------------	|-------------------------------------------------------	|
+| 10/2025 	| Sherlock   	| [Index Fun Order Book](https://audits.sherlock.xyz/contests/1197)                                             	                | PUSH0 	    | #1 🥇 (as LSW)                  |  Prediction market, Orderbook	|
 | 10/2025 	| Sherlock   	| [3Jane](https://audits.sherlock.xyz/contests/1184)                                             	                                | PUSH0 	    | #2 🥈                           	| Morpho Blue fork, Credit lines, Pendle integrations 	|
 | 06/2025 	| Cantina   	| [Aquarius](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff)                                             	| WenResults 	| #7 (as dedicated researcher)                           	| Rust/Stellar, Uniswap V2 AMM, Curve AMM, veTokenomics 	|
 | 04/2025 	| Cantina   	| [LayerX/Taikai](https://cantina.xyz/competitions/74fb60b8-879f-43b1-9f48-c788df0590da)                                        	| Solo       	| #2 🥈 (as dedicated researcher) 	| Launchpad, Uniswap V4 integrations                    	|
@@ -14,7 +15,7 @@ My contest highlights:
 | 12/2024 	| Cantina   	| [Story protocol](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58)                                                                                                            	| Solo       	| #26                            	| Cosmos SDK, geth, IP                                  	|
 | 11/2024 	| Hats      	| [Euro Dollar](https://app.hats.finance/audit-competitions/euro-dollar-0xa4ccd3b6daa763f729ad59eae75f9cbff7baf2cd/leaderboard) 	| Solo       	| #1 🥇                           	| RWA                                                   	|
 | 10/2024 	| Sherlock  	| [Covalent update](https://audits.sherlock.xyz/contests/618)                                                                   	| PUSH0      	| #1 🥇 (as LSW)                  	| *Private contest*                                     	|
-| 10/2024 	| Sherlock  	| [predict.fun](https://audits.sherlock.xyz/contests/561)                                                                       	| PUSH0      	| #1 🥇                           	| Lending, CTF market                                   	|
+| 10/2024 	| Sherlock  	| [predict.fun](https://audits.sherlock.xyz/contests/561)                                                                       	| PUSH0      	| #1 🥇                           	| Lending, Prediction market, Polymarket integrations                                   	|
 | 07/2024 	| Sherlock  	| [MagicSea](https://audits.sherlock.xyz/contests/437)                                                                          	| PUSH0      	| #6 (as LSW)                    	| Token staking, Voting                                 	|
 | 05/2024 	| Sherlock  	| [Terrace](https://audits.sherlock.xyz/contests/406)                                                                           	| PUSH0      	| #1 🥇                           	| *Private contest*                                     	|
 | 04/2024 	| Sherlock  	| [Arcadia update](https://audits.sherlock.xyz/contests/321)                                                                    	| PUSH0      	| #2 🥈                           	| Lending, Aerodrome integrations                       	|
@@ -26,13 +27,14 @@ My contest highlights:
 
 Private engagements:
 
-| Date    	| Protocol name 	| Provider                         	| Type |
+| Date    	| Protocol name 	| Provider                         	| Category |
 |---------	|---------------	|------------------------------	| ------- |
-| 11/2025 	| Pred   	| Sherlock Audit 	|  Prediction market, Conditional Token Framework     |
-| 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock Audit	|  Lending     |
-| 09/2025 	| Napier V2      	| Sherlock Audit	|  Yield trading, Uniswap V4 hooks     |
+| 11/2025 	| Avon   	| Sherlock 	|  Morpho Vault V2 integrations     |
+| 11/2025 	| Pred.app   	| Sherlock 	|  Prediction market, Conditional Token Framework     |
+| 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock	|  Lending     |
+| 09/2025 	| Napier V2      	| Sherlock	|  Yield trading, Uniswap V4 hooks     |
 | 04/2025 	| Beraborrow - vePOLLEN      	| Solo review 	|  veTokenomics     |
-| 02/2025 	| Metalend      	| Sherlock Audit	|  Lending, Compound V2 fork     |
+| 02/2025 	| Metalend      	| Sherlock	|  Lending, Compound V2 fork     |
 
 Also I won Secureum RACE-38 :P 
 

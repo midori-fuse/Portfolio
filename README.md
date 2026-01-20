@@ -25,10 +25,12 @@ My contest highlights:
 | 10/2023 	| Code4rena 	| [ENS](https://code4rena.com/audits/2023-10-ens)                                                                               	| Solo       	| #2 🥈                           	| Token standard/misc                                   	|
 | 01/2023 	| Sherlock  	| [Notional update](https://audits.sherlock.xyz/contests/31)                                                                    	| Solo       	| #3 🥉                           	| Lending, Balancer V2 integrations                     	|
 
-Private engagements:
+Private audits:
 
 | Date    	| Protocol name 	| Provider                         	| Category |
 |---------	|---------------	|------------------------------	| ------- |
+| 01/2026 	| Arcadia - Asset Managers   	| Sherlock 	|  Asset management. Uniswap V3, Uniswap V4, CoWSwap integrations     |
+| 11/2025 	| Blend Money   	| Sherlock 	|  Swap router     |
 | 11/2025 	| Avon   	| Sherlock 	|  Morpho Vault V2 integrations     |
 | 11/2025 	| Pred.app   	| Sherlock 	|  Prediction market, Conditional Token Framework     |
 | 09/2025 	| Arcadia - Unichain Deployment    	| Sherlock	|  Lending     |
@@ -42,7 +44,7 @@ I also took up roles in the field of triaging. Roles I served at:
 - Judge overseer in Cantina in 06/2025 - 09/2025
 - Bounty triager in Cantina in 06/2025 - 11/2025. 
 
-List of contests I served as a primary judge:
+I served as a primary judge in various audit contests:
 
 | Date    | Platform | Contest                                                                                | Category                |
 |---------|----------|----------------------------------------------------------------------------------------|-------------------------|

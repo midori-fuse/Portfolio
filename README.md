@@ -29,6 +29,7 @@ Private audits:
 
 | Date    	| Protocol name 	| Provider                         	| Category |
 |---------	|---------------	|------------------------------	| ------- |
+| 01/2026   | Robin | Phage Security | Yield vaults, Polymarket integrations |
 | 01/2026 	| Arcadia - Asset Managers   	| Sherlock 	|  Asset management. Uniswap V3, Uniswap V4, CoWSwap integrations     |
 | 11/2025 	| Blend Money   	| Sherlock 	|  Swap router     |
 | 11/2025 	| Avon   	| Sherlock 	|  Morpho Vault V2 integrations     |
